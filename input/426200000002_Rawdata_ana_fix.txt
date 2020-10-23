@@ -41,7 +41,6 @@ q4	media
 4	TV
 1	TV
 1	TV
-1	TV
 3	TV
 1	TV
 1	TV
@@ -65,7 +64,6 @@ q4	media
 4	TV
 3	TV
 4	TV
-1	TV
 1	TV
 2	TV
 3	TV
@@ -204,13 +202,11 @@ q4	media
 2	TV
 1	TV
 3	TV
-1	TV
 3	TV
 2	TV
 4	TV
 2	TV
 2	TV
-4	TV
 4	TV
 1	TV
 4	TV
@@ -279,7 +275,6 @@ q4	media
 3	TV
 4	TV
 2	TV
-1	TV
 3	TV
 3	TV
 3	TV
@@ -335,7 +330,6 @@ q4	media
 4	NP
 1	NP
 1	NP
-1	NP
 3	NP
 1	NP
 2	NP
@@ -360,7 +354,6 @@ q4	media
 4	NP
 3	NP
 2	NP
-1	NP
 2	NP
 3	NP
 3	NP
@@ -498,14 +491,12 @@ q4	media
 3	NP
 2	NP
 3	NP
-1	NP
 3	NP
 2	NP
 3	NP
 3	NP
 2	NP
 3	NP
-4	NP
 1	NP
 4	NP
 3	NP
@@ -573,7 +564,6 @@ q4	media
 3	NP
 4	NP
 2	NP
-1	NP
 2	NP
 4	NP
 3	NP
@@ -628,7 +618,6 @@ q4	media
 2	SNS
 3	SNS
 1	SNS
-1	SNS
 2	SNS
 3	SNS
 3	SNS
@@ -654,7 +643,6 @@ q4	media
 4	SNS
 3	SNS
 2	SNS
-1	SNS
 2	SNS
 3	SNS
 2	SNS
@@ -792,14 +780,12 @@ q4	media
 1	SNS
 2	SNS
 2	SNS
-1	SNS
 3	SNS
 2	SNS
 1	SNS
 3	SNS
 2	SNS
 2	SNS
-4	SNS
 1	SNS
 2	SNS
 4	SNS
@@ -867,7 +853,6 @@ q4	media
 3	SNS
 3	SNS
 2	SNS
-1	SNS
 2	SNS
 2	SNS
 2	SNS
@@ -922,7 +907,6 @@ q4	media
 2	MS
 2	MS
 2	MS
-1	MS
 3	MS
 2	MS
 3	MS
@@ -948,7 +932,6 @@ q4	media
 3	MS
 3	MS
 2	MS
-1	MS
 2	MS
 3	MS
 2	MS
@@ -1086,14 +1069,12 @@ q4	media
 2	MS
 1	MS
 2	MS
-1	MS
 3	MS
 2	MS
 2	MS
 3	MS
 2	MS
 2	MS
-4	MS
 1	MS
 2	MS
 3	MS
@@ -1161,7 +1142,6 @@ q4	media
 3	MS
 2	MS
 2	MS
-1	MS
 2	MS
 2	MS
 2	MS
@@ -1216,7 +1196,6 @@ q4	media
 3	IS
 3	IS
 2	IS
-1	IS
 2	IS
 3	IS
 3	IS
@@ -1242,7 +1221,6 @@ q4	media
 3	IS
 3	IS
 3	IS
-1	IS
 2	IS
 3	IS
 2	IS
@@ -1380,14 +1358,12 @@ q4	media
 2	IS
 2	IS
 3	IS
-1	IS
 3	IS
 2	IS
 3	IS
 2	IS
 2	IS
 2	IS
-4	IS
 1	IS
 3	IS
 2	IS
@@ -1455,7 +1431,6 @@ q4	media
 3	IS
 3	IS
 3	IS
-1	IS
 2	IS
 3	IS
 3	IS
